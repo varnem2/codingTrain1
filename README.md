@@ -19,3 +19,7 @@ Daniel has about 10 videos explaining all the moving pieces here, but my goal is
 3. Install any local web server.. Can be installed via npm or most editors have a plugin.
 
 `npm install -g local-web-server`
+
+4. Launch webserver above.
+
+`ws`
